@@ -2,6 +2,7 @@
 
 /**
  * main - Print _putchar
+ * is written by david
  * Return: 0
  */
 
