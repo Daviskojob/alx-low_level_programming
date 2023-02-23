@@ -2,7 +2,8 @@
 
 /**
 *print_numbers - print 0123456789
-*Return: 0
+* owned by Bwave ICT
+*Return: void
 */
 
 void print_numbers(void)
@@ -14,5 +15,4 @@ void print_numbers(void)
 	_putchar(c);
 	}
 	_putchar('\n');
-	return (0);
 }
