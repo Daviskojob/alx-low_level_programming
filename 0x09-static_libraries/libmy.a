@@ -1,0 +1,5 @@
+#!/bin/bash
+ar rcs libmy.a _putchar.o
+ar -t libmy.a
+nm libmy.a
+

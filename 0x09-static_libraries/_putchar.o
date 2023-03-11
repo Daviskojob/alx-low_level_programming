@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc -c my_functions/_putchar.c -o _putchar.o
+
